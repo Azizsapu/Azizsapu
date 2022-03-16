@@ -1,3 +1,10 @@
+(https://myoctocat.com/assets/images/base-octocat.svg)
+
+
+
+
+
+
 - 👋 Hi, I’m @Azizsapu
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
